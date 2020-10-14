@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>996438855889-2hhhm3l9fm4hi2b5433ktrsul83chf49.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.996438855889-2hhhm3l9fm4hi2b5433ktrsul83chf49</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBUVCGAQePD6A4WiLRH97Afxj_5fqY3eb8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>996438855889</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mammothinteractive.airbnb</string>
+	<key>PROJECT_ID</key>
+	<string>airbnb-clone-244916</string>
+	<key>STORAGE_BUCKET</key>
+	<string>airbnb-clone-244916.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:996438855889:ios:dfb5affb06468dc1</string>
+	<key>DATABASE_URL</key>
+	<string>https://airbnb-clone-244916.firebaseio.com</string>
+</dict>
+</plist>
